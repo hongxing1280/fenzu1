@@ -1,37 +1,5 @@
 
 
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>🙏🙏菩萨保佑🙏🙏</title>
-    <style>
-        .container {
-            width: 60%;
-            margin: 10% auto 0;
-            background-color: #f0f0f0;
-            padding: 2% 5%;
-            border-radius: 10px
-        }
-
-        ul {
-            padding-left: 20px;
-        }
-
-            ul li {
-                line-height: 2.3
-            }
-
-        a {
-            color: #20a53a;
-            margin:10px;
-        }
-
-    </style>
-</head>
-<body>
- <div class=“qj”>
-<ul class=“cn”>
     <span>🙏🙏菩萨保佑🙏🙏</span>
 
 <a target="_blank" href="https://www.unwindapps.com">24直播网</a>
@@ -1035,8 +1003,7 @@
 <a target="_blank" href="https://www.zhushayo.com">24直播网</a>
 <a target="_blank" href="https://www.hbjzhrl.com">24直播网</a>
 
-</ul>
-<ul class="id">
+
     <span>🙏🙏菩萨保佑🙏🙏</span>
 
 <a href="https://www.jerimumeventos.com" target=_blank" title="1">24直播网</a>
@@ -2040,9 +2007,4 @@
 <a href="https://www.aichepin.com" target=_blank" title="999">24直播网</a>
 <a href="https://www.jhjjhs.com" target=_blank" title="1000">24直播网</a>
 
-</ul>
 
-</ul>
-</div>
-</body>
-</html>
